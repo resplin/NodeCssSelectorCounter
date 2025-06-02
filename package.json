@@ -1,0 +1,16 @@
+{
+  "name": "css-selector-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js utility to scrape webpage content using CSS selectors.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Esplin <randy.esplin@ecinternet.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0"
+  }
+}
