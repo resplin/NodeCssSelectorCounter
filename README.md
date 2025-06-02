@@ -19,8 +19,8 @@ To use this script, you need Node.js installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/css-selector-counter.git](https://github.com/YOUR_USERNAME/css-selector-counter.git)
-    cd css-selector-counter
+    git clone https://github.com/resplin/NodeCssSelectorCounter.git
+    cd NodeCssSelectorCounter
     ```
 
 2.  **Install dependencies:**
@@ -38,3 +38,4 @@ You can run the script directly from your terminal:
 
 ```bash
 node index.js <URL> <CSS_SELECTOR>
+```
